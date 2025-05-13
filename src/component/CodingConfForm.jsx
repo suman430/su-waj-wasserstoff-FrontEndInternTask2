@@ -32,7 +32,7 @@ export default function CodingConfForm() {
           <p className="form-subtitle">Secure your spot at next year’s biggest coding conference in! </p> 
 
           <div className="form-group">
-            <label>Upload avatar</label>
+            <label>Upload Profile</label>
             <input type="file" onChange={handleFileChange} required />
           </div>
 
